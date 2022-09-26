@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: How to swicth Design Visual To Engineering
 date: 2015-11-07 16:11:00-0400
 inline: false
 ---
